@@ -1,0 +1,5 @@
+:root{
+    --fonte-padrao: 'Rubik', sans-serif;
+    --cor-mensagem-esquerda: hsl(276, 55%, 52%);
+    --cor-mensagem-direita:hsl(271, 15%, 43%);
+}
